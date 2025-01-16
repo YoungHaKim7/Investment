@@ -189,6 +189,24 @@ hr {
 	outline: none;
 }
 
+.pp-5HHBGYD2SP7JJ {
+	text-align: center;
+	border: none;
+	border-radius: 0.25rem;
+	min-width: 6.707rem;
+	padding: 0 2rem;
+	height: 2.625rem;
+	font-weight: bold;
+	background-color: #FFD140;
+	color: #000000;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 1rem;
+	line-height: 1.25rem;
+	cursor: pointer;
+	text-decoration: none;
+
+}
+
 .payment_btn {
 	background-color: rgb(234, 239, 79);
 	border-color: 1px black;
