@@ -187,6 +187,7 @@ hr {
 	justify-content: center;
 	align-items: center;
 	outline: none;
+	text-decoration: none;
 }
 
 .pp-5HHBGYD2SP7JJ {
@@ -204,31 +205,6 @@ hr {
 	line-height: 1.25rem;
 	cursor: pointer;
 	text-decoration: none;
-
-}
-
-.payment_btn {
-	background-color: rgb(234, 239, 79);
-	border-color: 1px black;
-	width: 170px;
-	height: 70px;
-	padding: 10px;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.payment_btn2 {
-	background-color: rgb(214, 211, 49);
-	border-color: 1px black;
-	width: 170px;
-	height: 70px;
-	padding: 10px;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 .font_bottom {
