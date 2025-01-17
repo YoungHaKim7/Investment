@@ -7,6 +7,7 @@
 :root {
 	--accent: #347ff1;
 	--accent-dark: #b77502;
+	--font-color-light: rgba(#c5c2bf);
 	--black: 10, 10, 15;
 	--gray: 96, 55, 19;
 	--gray-light: 30, 115, 150;
@@ -62,7 +63,7 @@ h4,
 h5,
 h6 {
 	margin: 0 0 0.5rem 0;
-	color: #c5c2bf;
+	color: var(--font-color-light);
 	line-height: 1.2;
 }
 
@@ -84,6 +85,10 @@ h4 {
 
 h5 {
 	font-size: 1.25em;
+}
+
+h4.title {
+	color: rgb(189, 192, 196) !important;
 }
 
 strong,
